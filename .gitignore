@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# CSS/SCSS
+*.css
+*.scss
+*.sass
+
+# Build output
+/dist/
+/build/
+/public/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# PHP
+vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+*.log
+
+# Misc
+*.bak
+*.tmp
+*.swp
