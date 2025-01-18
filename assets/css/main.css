@@ -796,14 +796,24 @@ section,
 }
 
 .about .progress:nth-child(3) .progress-bar {
-  background-color: #ffc107; /* Yellow for Containerization | Orchestration */
+  background-color: #10e3f7; /* Yellow for Containerization | Orchestration */
 }
 
 .about .progress:nth-child(4) .progress-bar {
   background-color: #dc3545; /* Red for Development (Python | Django) */
 }
 
+.about .progress:nth-child(5) .progress-bar {
+  background-color: #c39229; /* Red for Development (Python | Django) */
+}
 
+.about .progress:nth-child(6) .progress-bar {
+  background-color: #29c333; /* Red for Development (Python | Django) */
+}
+
+.about .progress:nth-child(7) .progress-bar {
+  background-color: #9b19dc; /* Red for Development (Python | Django) */
+}
 
 .about .about-me h4 {
   font-size: 28px;
